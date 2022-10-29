@@ -8,3 +8,4 @@ How to use:
 5) Run 3dmigoto.exe And Then Run Genshin Impact
 
 Warning: There have been no Bans for using 3dmigoto yet, but if you DO get banned, we take no responsibility.
+if you need help, you can join us at https://discord.gg/agmg
